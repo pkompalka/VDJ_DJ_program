@@ -1,0 +1,486 @@
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\VDJServer.exe.config
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\VDJServer.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\ControlzEx.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\ControlzEx.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\Resources\Icons.baml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.cache
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.lref
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\App.baml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\Views\MainWindow.baml
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer.g.resources
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer.Properties.Resources.resources
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CopyComplete
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer.pdb
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\taglib-sharp.dll
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Piotr\Desktop\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.exe.config
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\ControlzEx.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\taglib-sharp.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\ControlzEx.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\Resources\Icons.baml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.cache
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.lref
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\App.baml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\Views\MainWindow.baml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.g.resources
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.Properties.Resources.resources
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CopyComplete
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.pdb
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piotr\Desktop\VDJProject\VDJServer\VDJServer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.exe.config
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\ControlzEx.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\taglib-sharp.dll
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\ControlzEx.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\Resources\Icons.baml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.cache
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.lref
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\App.baml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\Views\MainWindow.baml
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.g.resources
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.Properties.Resources.resources
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CopyComplete
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\vdj do wyslania\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.exe.config
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\ControlzEx.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\taglib-sharp.dll
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\ControlzEx.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\Resources\Icons.baml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.cache
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.lref
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\App.baml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\Views\MainWindow.baml
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.g.resources
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.Properties.Resources.resources
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CopyComplete
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\poprawiany\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.exe.config
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\VDJServer.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\ControlzEx.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\taglib-sharp.dll
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\ControlzEx.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\Resources\Icons.baml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.cache
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer_MarkupCompile.lref
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\App.baml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\Views\MainWindow.baml
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.g.resources
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.Properties.Resources.resources
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.csproj.CopyComplete
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.exe
+C:\Users\Piotr\Desktop\bssssd\VDJProject\VDJServer\VDJServer\obj\Debug\VDJServer.pdb

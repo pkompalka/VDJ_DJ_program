@@ -1,0 +1,110 @@
+﻿<Controls:MetroWindow x:Class="VDJServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:viewModels="clr-namespace:VDJServer.ViewModels"
+        d:DataContext="{d:DesignInstance viewModels:MainViewModel}"
+        mc:Ignorable="d"
+        Title="VDJServer" Height="660" Width="1000">
+
+    <TabControl>
+        <TabItem Header="All">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="180"/>
+                    <RowDefinition Height="180"/>
+                    <RowDefinition Height="30"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Column="3" Grid.Row="1" Text="{Binding ServerStatus}" Foreground="White" FontSize="20" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+                <TextBox Grid.Column="4" Grid.Row="1" Text="{Binding ServerPassword}" Foreground="White" FontSize="17" IsEnabled="{Binding IsPasswordNotSet}"/>
+                <TextBlock Grid.Column="3" Grid.ColumnSpan="2" Grid.Row="0" FontSize="15" TextWrapping="Wrap" Text="{Binding RequestSelected.Dedication}" Foreground="Black" Background="Crimson"/>
+                <TextBox Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="5" IsReadOnly="True" Background="Transparent" BorderThickness="0" Text="Paste your VDJ directory here first (e.g. C:\Users\Piotr\Documents\VirtualDJ) ===>" Foreground="White" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox Grid.Column="3" Grid.ColumnSpan="2" Grid.Row="5" Height="30" VerticalAlignment="Center" Text="{Binding VdjDirectory}" Foreground="White" FontSize="17"/>
+                <CheckBox Grid.Column="3" Grid.Row="2" IsChecked="{Binding IsCheckBoxChecked}" Content="Check to auto-delete requests"/>
+
+                <DataGrid x:Name="myDataGrid" Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="0" Grid.RowSpan="5" ItemsSource="{Binding RichRequestObservable}" SelectedItem="{Binding Path=RequestSelected, Mode=TwoWay}" SelectionMode="Single" IsSynchronizedWithCurrentItem="True" IsReadOnly="True" AutoGenerateColumns="False" CanUserAddRows="false">
+                    <DataGrid.InputBindings>
+                        <MouseBinding MouseAction="LeftDoubleClick" Command="{Binding ShowMessageBoxCommand}" CommandParameter="{Binding ElementName=myDataGrid, Path=SelectedItem}"/>
+                    </DataGrid.InputBindings>
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn Width="25">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button  Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type DataGrid}}, Path=DataContext.DeleteFromGridCommand}" CommandParameter="{Binding}">
+                                        <Rectangle Width="10" Height="10" Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                                            <Rectangle.OpacityMask>
+                                                <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_delete}"/>
+                                            </Rectangle.OpacityMask>
+                                        </Rectangle>
+                                    </Button>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="40"/>
+                        <DataGridTextColumn Header="Title" Binding="{Binding Title}" Width="*"/>
+                        <DataGridTextColumn Header="Author" Binding="{Binding LeadAuthor}" Width="*"/>
+                        <DataGridTextColumn Header="Who requested" Binding="{Binding Nick}" Width="*"/>
+                        <DataGridTextColumn Header="Dedication" Binding="{Binding Dedication}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Button Grid.Column="4" Grid.Row="2" HorizontalAlignment="Left" Width="60" Height="60" Background="Green" IsEnabled="{Binding IsServerStartButtonEnabled}" Command="{Binding ButtonStartServer}" BorderBrush="White" BorderThickness="3" Style="{StaticResource MetroCircleButtonStyle}">
+                    <Rectangle Width="30" Height="30" Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_power}"/>
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                </Button>
+                <Button Grid.Column="4" Grid.Row="2" HorizontalAlignment="Right" Width="60" Height="60" Background="Red" IsEnabled="{Binding IsServerCloseButtonEnabled}" Command="{Binding ButtonCloseServer}" BorderBrush="White" BorderThickness="3" Style="{StaticResource MetroCircleButtonStyle}">
+                    <Rectangle Width="30" Height="30" Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_close}"/>
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                </Button>
+                <ScrollViewer Grid.Column="3" Grid.ColumnSpan="2" Grid.Row="3">
+                    <TextBlock TextWrapping="Wrap" Text="{Binding Top5Text}" Foreground="Black" Background="DarkGoldenrod"/>
+                </ScrollViewer>
+                <ScrollViewer x:Name="myScroll" Grid.Column="3" Grid.ColumnSpan="2" Grid.Row="4" ScrollChanged="ScrollViewer_ScrollChanged">
+                    <TextBlock TextWrapping="Wrap" Text="{Binding ChatText}" Background="Black"/>
+                </ScrollViewer>
+            </Grid>
+        </TabItem>
+        <TabItem Header="Dedications">
+            <DataGrid x:Name="myDataGrid2" ItemsSource="{Binding RichRequestObservable}" SelectedItem="{Binding Path=RequestSelected, Mode=TwoWay}" SelectionMode="Single" IsSynchronizedWithCurrentItem="True" IsReadOnly="True" AutoGenerateColumns="False" CanUserAddRows="false">
+                <DataGrid.InputBindings>
+                    <MouseBinding MouseAction="LeftDoubleClick" Command="{Binding ShowMessageBoxCommand}" CommandParameter="{Binding ElementName=myDataGrid2, Path=SelectedItem}"/>
+                </DataGrid.InputBindings>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="40"/>
+                    <DataGridTextColumn Header="Title" Binding="{Binding Title}" Width="*"/>
+                    <DataGridTextColumn Header="Author" Binding="{Binding LeadAuthor}" Width="*"/>
+                    <DataGridTextColumn Header="Who requested" Binding="{Binding Nick}" Width="*"/>
+                    <DataGridTextColumn Header="Dedication" Binding="{Binding Dedication}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </TabItem>
+        <TabItem Header="Top songs">
+            <ScrollViewer>
+                <TextBlock TextWrapping="Wrap" Text="{Binding Top10Text}" Foreground="Black" Background="DarkGoldenrod"/>
+            </ScrollViewer>
+        </TabItem>
+        <TabItem Header="Chat">
+            <ScrollViewer x:Name="myScroll2" ScrollChanged="ScrollViewer2_ScrollChanged">
+                <TextBlock TextWrapping="Wrap" Text="{Binding ChatText}" Background="Black"/>
+            </ScrollViewer>
+        </TabItem>
+    </TabControl>
+</Controls:MetroWindow>
